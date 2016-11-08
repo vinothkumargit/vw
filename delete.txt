@@ -1,0 +1,23 @@
+sdfsfsfksdfksfdksj
+sjdfksfjsdfkjsdfkdjdsfsfasd
+<<<<<<< HEAD
+
+kani 1
+kani 2
+
+kani 3
+
+kani 4
+
+kani 5
+
+
+abi 10
+
+line one
+
+line two
+
+line three git diff
+=======
+>>>>>>> 77824511a41d049b97d8f678301291114c6db97a
